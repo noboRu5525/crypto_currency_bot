@@ -1,0 +1,8 @@
+plotly
+plotly_express
+numpy
+pandas
+TA-Lib
+yfinance
+kaleido
+ccxt
